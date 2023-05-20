@@ -1,4 +1,4 @@
-# Project Name: Landmark Image Classification
+# Project Name: Baiterek App
 
 This project implements an image classification model using FastAPI and PyTorch to classify images of sightseeing in Astana, Kazakhstan into one of eight categories: 'akorda', 'baiterek', 'khanshatyr', 'mangilikel', 'mosque', 'nuralem', 'piramida', and 'shabyt'. The project is built into a Docker container using the `zironycho/pytorch:1.6.0-slim-py3.7-v1` base image.
 
