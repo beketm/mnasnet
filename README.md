@@ -14,7 +14,7 @@ This project implements an image classification model using FastAPI and PyTorch 
 1. Clone the repository:
 
 ```
-git clone https://github.com/beketm/mnasnet
+git clone https://github.com/beketm/mnasnet.git
 ```
 
 2. Change directory to the cloned repository:
